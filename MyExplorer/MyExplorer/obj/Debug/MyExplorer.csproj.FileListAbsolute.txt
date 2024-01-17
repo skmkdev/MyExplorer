@@ -1,0 +1,10 @@
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Form1.resources
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Properties.Resources.resources
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.GenerateResource.cache
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.CoreCompileInputs.cache
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb
+C:\Users\theon\Documents\Visual Studio 2017\Projects\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojAssemblyReference.cache
